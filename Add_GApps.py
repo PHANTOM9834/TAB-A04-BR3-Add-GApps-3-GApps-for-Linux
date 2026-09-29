@@ -323,7 +323,6 @@ class GAppsPatcherApp(ctk.CTk):
       except Exception as ex:
         self.log(f"アンマウント時のエラー: {ex}")
 
-
 if __name__ == "__main__":
   app = GAppsPatcherApp()
   app.mainloop()
