@@ -1,4 +1,4 @@
-# Android GApps Patcher - AndroidシステムイメージへGAppsを自動展開・適用するLinux用GUIツール
+# Android GApps Patcher - TAB-A04-BR3 チャレンジタッチ3のAndroidシステムイメージへGAppsを自動展開・適用するLinux用GUIツール
 
 ## 【重要なお知らせと免責事項】
 本ツールを使用した場合、以下の条件にすべて同意したものとみなされます。
