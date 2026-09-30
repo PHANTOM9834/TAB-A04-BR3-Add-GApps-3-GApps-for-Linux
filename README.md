@@ -31,6 +31,7 @@ Linux環境下で、Androidの `system.img` に対して OpenGApps などの ZIP
 - **Python:** Python 3.12 推奨
 - **Python ライブラリ:** `customtkinter` `tkinter`
 - **システムコマンド:** `lzip`, `tar`, `mount`, `umount`, `findmnt`, `sudo`
+- **GApps** `https://opengapps.org/ `こちらのサイトからPlatformは `ARM64` Androidは `7.0` Variantは `pico` を選択して赤い丸ボタンを押すとダウンロード先に進みます。そして数秒後にGAppsのzipファイルのダウンロードが開始されます。 
 
 ## インストール手順
 
